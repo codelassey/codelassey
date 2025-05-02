@@ -32,19 +32,10 @@
 ---
 
 ### GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codelassey&show_icons=true&theme=radical" alt="my github stats" width="420"/>
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codelassey&theme=radical" alt="my github streak" width="420"/>
-</p>
-
-
-
-### Facts:
-```bash
-> "Security is not a product, it's a process." — Bruce Schneier
-> "The quieter you become, the more you are able to hear." — Anonymous Hacker
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelassey&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Security+is+not+a+product%2C+it's+a+process.;Defense+is+not+static%2C+it's+adaptive.;Threats+evolve%2C+so+must+defenses.;In+cybersecurity%2C+knowledge+is+armor.)](https://git.io/typing-svg)
+
+
+
+
