@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Future+Cybersecurity+Analyst;Cybersecurity+Professional+In+Training;Open+to+Internships+and+Mentorships!&center=true&width=500&height=50">
 </p>
 
-###### NOTE: ######Change your Github display mode from `light mode` to `dark mode` for the best experience :)
+##### NOTE: Change your Github display mode from `light mode` to `dark mode` for the best experience :)
 ---
 ### About Me:
 
