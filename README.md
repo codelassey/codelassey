@@ -29,14 +29,14 @@
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prince-lassey-b90b80197/)
 
-
 ---
 
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelassey&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Security+is+not+a+product%2C+it's+a+process.;Defense+is+not+static%2C+it's+adaptive.;Threats+evolve%2C+so+must+defenses.;In+cybersecurity%2C+knowledge+is+armor.)](https://git.io/typing-svg)
 
 
 
-
+---
