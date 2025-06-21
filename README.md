@@ -24,7 +24,7 @@
 ---
 
 ### MAIN REPOSITORIES 
-- [PORTFOLIO](https://github.com/codelassey/cybersecurity-portfolio) - Detailed overview of my skills and projects
+- [PORTFOLIO](https://github.com/codelassey/portfolio) - Detailed overview of my skills and projects
 - [CYBERSECURITY LABS](https://github.com/codelassey/cybersecurity-labs) - Hands-on lab work and documentation
 - [INTERNSHIP TASKS](https://github.com/codelassey/internship) - Internship-related labs
 - [SCRIPTS AND TOOLS](https://github.com/codelassey/scripts-and-tools) - Scripting with Bash & Python
