@@ -28,7 +28,7 @@
 - [CYBERSECURITY LABS](https://github.com/codelassey/cybersecurity-labs) - Hands-on lab work and documentation
 - [INTERNSHIP TASKS](https://github.com/codelassey/internship) - Internship-related labs
 - [SCRIPTS AND TOOLS](https://github.com/codelassey/scripts-and-tools) - Scripting with Bash & Python
-- [CYBERSECURITY PROJECTS](https://github.com/codelassey/scripts-and-tools) - Capstone Projects
+- [CYBERSECURITY PROJECTS](https://github.com/codelassey/cybersecurity-projects) - Capstone Projects
 - [METEOROLOGY PROJECTS](https://github.com/codelassey/scripts-and-tools) - Meteorological Data Analysis (University)
 
 ---
