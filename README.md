@@ -29,7 +29,7 @@
 - [INTERNSHIP TASKS](https://github.com/codelassey/internship-tasks) - Internship-related labs
 - [SCRIPTS AND TOOLS](https://github.com/codelassey/scripts-and-tools) - Scripting with Bash & Python
 - [CYBERSECURITY PROJECTS](https://github.com/codelassey/cybersecurity-projects) - Capstone Projects
-- [METEOROLOGY PROJECTS](https://github.com/codelassey/scripts-and-tools) - Meteorological Data Analysis (University)
+- [METEOROLOGY PROJECTS](https://github.com/codelassey/meteorology-projects) - Meteorological Data Analysis (University)
 
 ---
 
