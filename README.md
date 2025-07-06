@@ -5,6 +5,8 @@
 </p>
 
 ---
+![Profile view counter](https://komarev.com/ghpvc/?username=codelassey)
+---
 
 ### ABOUT ME
 - Student at Kwame Nkrumah University of Science and Technology (KNUST), Ghana
@@ -45,6 +47,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00¢er=true&vCenter=true&multiline=true&width=800&height=100&lines=Safeguarding+digital+ecosystems+from+Cyber+Threats;Dedicated+to+continuous+learning;Committed+to+making+an+impact+online.)](https://git.io/typing-svg)
 
 ---
-
 
 
