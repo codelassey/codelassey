@@ -5,7 +5,7 @@
 </p>
 
 ---
-![Profile view counter](https://komarev.com/ghpvc/?username=codelassey)
+![](https://komarev.com/ghpvc/?username=codelassey)
 ---
 
 ### ABOUT ME
