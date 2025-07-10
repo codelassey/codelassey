@@ -42,7 +42,8 @@
 
 ## GITHUB STATS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelassey&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=codelassey&theme=tokyonight&border_radius=11.1&card_width=400&card_height=150)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codelassey&theme=tokyonight&card_width=400&card_height=150)](https://git.io/streak-stats)
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&layout=compact&theme=tokyonight)
 
 ---
