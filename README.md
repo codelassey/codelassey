@@ -19,8 +19,7 @@
 ---
 
 ## SKILLS
-[![Network Security](https://img.shields.io/badge/-Network%20Security-00C853?logo=network&style=for-the-badge)](https://github.com/codelassey)
-[![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-FF5722?logo=kalilinux&style=for-the-badge)](https://github.com/codelassey)
+[![Offensive Security](https://img.shields.io/badge/-Offensive%20Security-FF5722?logo=kalilinux&style=for-the-badge)](https://github.com/codelassey)
 [![Defensive Security](https://img.shields.io/badge/-Defensive%20Security-3F51B5?logo=cyberdefenders&style=for-the-badge)](https://github.com/codelassey)
 [![Cyber Hygiene](https://img.shields.io/badge/-Cyber%20Hygiene-FF9800?logo=education&style=for-the-badge)](https://github.com/codelassey)
 
