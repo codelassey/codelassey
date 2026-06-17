@@ -1,7 +1,7 @@
 <h1 align="center">I'm Prince Kwesi Lassey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Student;Open+to+Internships+!&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Student;Open+to+Opportunities;Open+to+Collaboarative+Projects+!&center=true&width=500&height=50">
 </p>
 
 ---
@@ -11,32 +11,49 @@
 
 
 ## ABOUT ME
-- Student at Kwame Nkrumah University of Science and Technology (KNUST), Ghana
-- Cybersecurity and Digital Safety Advocate
-- Defending the vulnerable & protecting digital spaces to build a safer digital world.
-- Open to internships, mentorships, and collaborative projects
+- Final-year Student at Kwame Nkrumah University of Science and Technology (KNUST), Ghana
+- I enjoy working on actual security problems.. investigating alerts, analyzing malicious activity, and understanding how attackers operate.
+- I also build and experiment with security labs and projects that simulate real attack and defense scenarios.
+- I’m particularly passionate about making cybersecurity more approachable and less intimidating for others.
+- If you’re reading this, welcome.. you’re looking at someone who is actively building.
 
 ---
 
-## SKILLS
-[![Offensive Security](https://img.shields.io/badge/-Offensive%20Security-FF5722?logo=kalilinux&style=for-the-badge)](https://github.com/codelassey)
-[![Defensive Security](https://img.shields.io/badge/-Defensive%20Security-3F51B5?logo=cyberdefenders&style=for-the-badge)](https://github.com/codelassey)
+## FOCUS AREAS
+- Security Operations (SOC)
+- Threat Detection & Incident Response
+- Threat Intelligence & Malware Analysis
+- Security Automation
+- Network Defense (IDS/IPS, Firewalls, Traffic Analysis)
+- Offensive Security & Adversary Simulation
 
 
 ---
 
-## MAIN REPOSITORIES 
-- PORTFOLIO - Detailed overview of my skills and projects (I TOOK DOWN THIS PAGE. I'M WORKING ON A BETTER PORTFOLIO SITE)
-- [CYBERSECURITY LABS](https://github.com/codelassey/cybersecurity-labs) - Hands-on lab work and documentation
-- [INTERNSHIP TASKS](https://github.com/codelassey/internship-tasks) - Internship-related labs
-- [SCRIPTS AND TOOLS](https://github.com/codelassey/scripts-and-tools) - Scripting with Bash & Python
-- [CYBERSECURITY PROJECTS](https://github.com/codelassey/cybersecurity-projects) - Capstone Projects
-- [METEOROLOGY PROJECTS](https://github.com/codelassey/meteorology-projects) - Meteorological Data Analysis (University)
+## FEATURED REPOSITORIES 
+
+> **MY PORTFOLIO** is currently being rebuilt. Feel free to check back soon!
+
+- [CYBERSECURITY LABS](https://github.com/codelassey/cybersecurity-labs) - Hands-on labs and documentation
+- [INTERNSHIP TASKS](https://github.com/codelassey/internship-tasks) - Various internship-related challenges
+- [SCRIPTS AND TOOLS](https://github.com/codelassey/scripts-and-tools) - Bash & Python automation
+- [CYBERSECURITY PROJECTS](https://github.com/codelassey/cybersecurity-projects) - Capstone and real-world style projects
+- [METEOROLOGY PROJECTS](https://github.com/codelassey/meteorology-projects) - University data analysis works
 
 ---
 
 ## CONNECT WITH ME
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prince-lassey-b90b80197/)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/prince-lassey-b90b80197/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@your-handle](https://medium.com/@princelassey">
+<img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
