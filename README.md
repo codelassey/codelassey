@@ -7,6 +7,7 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=codelassey)
+> You might want to switch to dark mode :)
 ---
 
 
