@@ -46,11 +46,11 @@
 ## CONNECT WITH ME
 <p align="center">
 
-<a href="https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/prince-lassey-b90b80197/">
+<a href="https://www.linkedin.com/in/prince-lassey-b90b80197">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@your-handle](https://medium.com/@princelassey">
+<a href="https://medium.com/@princelassey">
 <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
