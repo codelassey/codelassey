@@ -23,7 +23,6 @@
 ## FOCUS AREAS
 - Security Operations (SOC)
 - Threat Detection & Incident Response
-- Threat Intelligence & Malware Analysis
 - Security Automation
 - Network Defense (IDS/IPS, Firewalls, Traffic Analysis)
 - Offensive Security & Adversary Simulation
