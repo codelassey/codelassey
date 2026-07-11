@@ -1,7 +1,7 @@
 <h1 align="center">I'm Prince Kwesi Lassey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Open+to+Opportunities;Open+to+Collaboarative+Projects+!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Cybersecurity+Analyst+%7C+SOC+%26+Offensive+Security;I+monitor+security+events;I+triage+security+alerts;I+analyze+logs;I+investigate+security+incidents;I+perform+threat+intelligence+analysis;I+assess+vulnerabilities;I+validate+security+controls;I+automate+SOC+workflows;Open+to+SOC+%26+Offensive+Security+Opportunities;Open+to+Cybersecurity+Project+Collaborations">
 </p>
 
 ---
@@ -13,6 +13,7 @@
 
 ## ABOUT ME
 - Final-year Student at Kwame Nkrumah University of Science and Technology (KNUST), Ghana
+- Cybersecurity Practitioner focused on SOC operations
 - I enjoy working on actual security problems.. investigating alerts, analyzing malicious activity, and understanding how attackers operate.
 - I also build and experiment with security labs and projects that simulate real attack and defense scenarios.
 - I’m particularly passionate about making cybersecurity more approachable and less intimidating for others.
