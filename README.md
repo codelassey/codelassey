@@ -36,7 +36,7 @@
 
 ## FEATURED REPOSITORIES 
 
-> **MY PORTFOLIO** is currently being rebuilt. Feel free to check back soon!
+### [VIEW MY PORTFOLIO](https://codelassey.github.io/portfolio/)
 
 - [CYBERSECURITY LABS](https://github.com/codelassey/cybersecurity-labs) - Hands-on labs and documentation
 - [INTERNSHIP TASKS](https://github.com/codelassey/internship-tasks) - Various internship-related challenges
