@@ -36,7 +36,7 @@
 
 ## FEATURED REPOSITORIES 
 
-### [VIEW MY PORTFOLIO](https://codelassey.github.io/portfolio2/)
+### [VIEW MY PORTFOLIO](https://www.lasseysec.tech/)
 
 - [CYBERSECURITY LABS](https://github.com/codelassey/cybersecurity-labs) - Hands-on labs and documentation
 - [INTERNSHIP TASKS](https://github.com/codelassey/internship-tasks) - Various internship-related challenges
