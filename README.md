@@ -47,18 +47,18 @@
 
 ## CONNECT WITH ME
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-lassey-b90b80197)
+<a href="https://www.linkedin.com/in/prince-lassey-b90b80197"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@princelassey)
 
 ---
 
 ## GITHUB STATS
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelassey&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codelassey&theme=tokyonight&card_width=400&card_height=150)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=codelassey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" width="54%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codelassey&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" width="41%"/>
+</div>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&layout=compact&theme=tokyonight)
-
----
-
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
