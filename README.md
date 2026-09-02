@@ -4,9 +4,7 @@
        style="width: 100%; max-width: 100%; display: block; margin: 0;" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Cybersecurity+Analyst+%7C+SOC+%26+Offensive+Security;I+monitor+security+events;I+triage+security+alerts;I+analyze+logs;I+investigate+security+incidents;I+perform+threat+intelligence+analysis;I+assess+vulnerabilities;I+validate+security+controls;I+automate+SOC+workflows;Open+to+SOC+%26+Offensive+Security+Opportunities;Open+to+Cybersecurity+Project+Collaborations">
-</p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=codelassey)
